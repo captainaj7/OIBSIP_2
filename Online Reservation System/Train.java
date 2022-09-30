@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author ARUNIMA
+ * @author DELL
  */
 public class Train extends javax.swing.JFrame {
 
