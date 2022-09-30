@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ARUNIMA
+ * @author DELL
  */
 public class Reservation extends javax.swing.JFrame {
 
