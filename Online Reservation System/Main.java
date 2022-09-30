@@ -2,7 +2,7 @@ package Railway;
 
 /**
  *
- * @author ARUNIMA
+ * @author DELL
  */
 public class Main extends javax.swing.JFrame {
 
