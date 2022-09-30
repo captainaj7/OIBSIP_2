@@ -2,7 +2,7 @@ package reservation;
 
 /**
  *
- * @author ARUNIMA
+ * @author DELL
  */
 public class Reservation {
 
